@@ -1,0 +1,10 @@
+export AWS_BUCKET="refactor-microservice-dev"
+export AWS_PROFILE="default"
+export AWS_REGION="us-east-1"
+export JWT_SECRET="JWTSecretRefactor"
+export POSTGRES_DB="testdbrefactorms"
+export POSTGRES_HOST="cdr.c4pkakwnkzfq.us-east-1.rds.amazonaws.com"
+export POSTGRES_PASSWORD="123456789"
+export POSTGRES_USERNAME="tungmaster"
+
+echo "Environment variables set successfully."
