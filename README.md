@@ -34,7 +34,8 @@ Screenshot of the kubectl describe services command output, providing detailed i
 **Horizontal Pod Autoscaler (HPA):**
 
 Screenshot of the kubectl describe hpa command output, detailing the autoscaling setup for the pods.
-![image](https://github.com/user-attachments/assets/ab5ab1e5-0090-4e88-8aa6-8944e59e9b2b)
+![image](https://github.com/user-attachments/assets/a338f913-73d9-4323-8d02-c97597f4450f)
+
 
 
 **Pod Logs:**
